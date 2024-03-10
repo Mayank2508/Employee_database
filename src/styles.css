@@ -1,0 +1,30 @@
+/* styles.css */
+
+.card {
+    border: 1px solid #db2929;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 4px rgba(250, 6, 6, 0.1);
+    margin-right: 50px;
+  }
+  
+  .card-body {
+    padding: 16px;
+    background-color: rgb(9, 6, 0);
+  }
+  
+  .card-title {
+    font-size: 1.50rem;
+    margin-bottom: 8px;
+    font-style: italic;
+    color: #db2929;
+
+  }
+  
+  .card-text {
+    color: #faf6f6;
+  }
+  .imdblink{
+    color: blue;
+  }
+  
